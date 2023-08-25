@@ -1,0 +1,56 @@
+[
+  {
+    "sprite": "Canadian",
+    "hearts": 10,
+    "shield": 5,
+    "regen_speed": 660,
+    "attack": 200,
+    "special": "freezing",
+    "cd": 600,
+    "file_name": "can"
+  },
+
+  {
+    "sprite": "Super Cop",
+    "hearts": 13,
+    "shield": 2,
+    "regen_speed": 180,
+    "attack": 292,
+    "special": "stealth",
+    "cd": 600,
+    "file_name": "cop"
+  },
+
+  {
+    "sprite": "Vegapunk",
+    "hearts": 14,
+    "shield": 7,
+    "regen_speed": 399,
+    "attack": 244,
+    "special": "poison",
+    "cd": 600,
+    "file_name": "punk"
+  },
+
+  {
+    "sprite": "Insane Cat",
+    "hearts": 6,
+    "shield": 4,
+    "regen_speed": 300,
+    "attack": 450,
+    "special": "kamziazie",
+    "cd": 600,
+    "file_name": "cat"
+  },
+
+  {
+    "sprite": "II Dotorre",
+    "hearts": 15,
+    "shield": 3,
+    "regen_speed": 213,
+    "attack": 277,
+    "special": "healing",
+    "cd": 600,
+    "file_name": "doc"
+  }
+]

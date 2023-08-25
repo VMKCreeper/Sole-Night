@@ -1,0 +1,8 @@
+{
+    "coins": 80,
+    "unlocked": [
+        true,
+        false,
+        false
+    ]
+}
